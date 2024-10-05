@@ -2,7 +2,7 @@
 
 This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimited Account Support handling AUTO PIXEL FILL , AUTO RESOURCE CLAIM. If you can run your pc 24/7 then you dont need a Vps else Better buy a small VPS!!
 
-**Register here NotPixel** - [https://t.me/notpixel/app?startapp=f6032442305](https://t.me/notpixel/app?startapp=f6032442305)
+**Register here NotPixel** - [[https://t.me/notpixel/app?startapp=f6032442305](https://t.me/notpixel/app?startapp=f5195444280_s577736)]([https://t.me/notpixel/app?startapp=f6032442305](https://t.me/notpixel/app?startapp=f5195444280_s577736))
 
 # NotPixel backed by Notcoin
 
@@ -16,7 +16,7 @@ This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimite
 
 # Setps to follow !
 
-1. clone the repo - `git clone https://github.com/Solana0x/NotPixel`
+1. clone the repo - `git clone https://github.com/toxicraunak/notpixel`
 2. Then `cd NotPixel`
 3. Install Python
 4. Then `pip install -r requirements.txt`
@@ -40,7 +40,7 @@ This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimite
 1. AUTO UPGRADES
 2. AUTO TASKS
 
-# FOR ANY KIND OF HELP CONTACT : 0xphatom on Discord https://discord.com/users/979641024215416842
+# FOR ANY KIND OF HELP CONTACT : Haxkx on Telegram https://t.me/haxkx
 
 **Educational Purposes Only:**
 
