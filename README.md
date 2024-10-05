@@ -17,7 +17,7 @@ This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimite
 # Setps to follow !
 
 1. clone the repo - `git clone https://github.com/toxicraunak/notpixel`
-2. Then `cd NotPixel`
+2. Then `cd notpixel`
 3. Install Python
 4. Then `pip install -r requirements.txt`
 6. Get `query_id=` from Telegram desktop by right click on your bot and then inspect
